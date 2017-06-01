@@ -1,7 +1,7 @@
 # ClickstreamAnalysis
-his R code is an example of analyzing Clickstream Data using Markov Chains and data mining SPACE algorithm.
+This R code is an example of analyzing Clickstream Data using Markov Chains and data mining SPADE algorithm.
 
-You can find the whole analysis here:
+You can find the whole analysis here: https://www.blendo.co/blog/clickstream-data-mining-techniques-introduction/
 
 ## Usage
 
