@@ -17,7 +17,7 @@ summary(mc)
 
 ##plot transition diagram and heatmap
 plot(mc)
-hmplot(mc)
+hmPlot(mc)
 
 ##clustering
 set.seed(42)
